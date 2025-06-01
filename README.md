@@ -1,7 +1,7 @@
-# megan and jevon's personalproject
+# Megan and Jevons' Personal Project
 ## Face Detector
 
-[Click here to view sketch](https://meganduong.github.io/personalproject/face_detector/)
+[Click here to view the sketch](https://meganduong.github.io/personalproject/face_detector/)
 
 ## Speech to Text
 
