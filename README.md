@@ -1,9 +1,9 @@
-# personalproject
-## Live Demo
+# megan and jevon's personalproject
+## Face Detector
 
-[Click here to view the the 'face detector' sketch](https://meganduong.github.io/personalproject/face_detector/)
+[Click here to view sketch](https://meganduong.github.io/personalproject/face_detector/)
 
-## Live Demo
+## Speech to Text
 
-[Click here to view the the 'speech to text' sketch](https://meganduong.github.io/personalproject/speech_to_text/)
+[Click here to view the sketch](https://meganduong.github.io/personalproject/speech_to_text/)
 
