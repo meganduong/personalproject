@@ -1,4 +1,4 @@
-# Megan and Jevons' Personal Project
+# Personal Projects
 ## Face Detector
 
 [Click here to view the sketch](https://meganduong.github.io/personalproject/face_detector/)
