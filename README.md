@@ -7,7 +7,6 @@
 
 [Click here to view the sketch](https://meganduong.github.io/personalproject/speech_to_text/)
 
-
-
+## Audiio Reactive Colour
 [Click here to view the sketch](https://meganduong.github.io/personalproject/audioreactive_colour/)
 
